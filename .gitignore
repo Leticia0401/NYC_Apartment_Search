@@ -1,2 +1,7 @@
 # files that should be ignored
 .DS_Store
+*.sqlite
+*.csv
+data/
+zipcodes/
+.*
